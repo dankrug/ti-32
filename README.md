@@ -1,7 +1,6 @@
 # ti-32
 
 ## Credits
----
 inspired by great work from [@chromalock](https://github.com/chromalock) at [ti-32](https://github.com/chromalock/ti-32).
 
 ## Description
