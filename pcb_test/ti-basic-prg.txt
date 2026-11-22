@@ -1,0 +1,6 @@
+:Repeat K=22
+:getKey→K
+:If K and K≠22
+:Send(K)
+:End
+:ClrHome
